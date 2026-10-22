@@ -27,6 +27,5 @@
       ]
     }
   ],
-  "outputDirectory": "out",
   "buildCommand": "npx next build"
 }
